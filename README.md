@@ -3,7 +3,7 @@ Technical Test Overview
 
 1. Source code for the solution.
 
-Please check the 
+Please check the repository.
 
 2. Setup/installation instructions.
 
